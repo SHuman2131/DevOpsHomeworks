@@ -6,6 +6,10 @@
 - файлы во всех поддиректориях .terraform
 - Во всех папках будут игнорироваться:
     - файлы по расширению: .tfstate, .tfvars, 
-	- файлы, содержащие в имени '.tfstate.'
-	- файлы, оканчивающиеся на '_override.tf', '_override.tf.json'
-	- файлы с названиями crash.log, override.tf, override.tf.json, .terraformrc, terraform.rc
+    - файлы, содержащие в имени '.tfstate.'
+    - файлы, оканчивающиеся на '_override.tf', '_override.tf.json'
+    - файлы с названиями crash.log, override.tf, override.tf.json, .terraformrc, terraform.rc
+
+# 2.2. Основы Git- Козлов Сергей Андреевич.
+
+И для ветки main сделаю коммит, интересно)
